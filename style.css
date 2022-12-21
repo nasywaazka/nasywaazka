@@ -1,0 +1,122 @@
+header {
+	position: absolute;
+	top:0;
+	left:0;
+	width: 100%;
+	padding: -90px 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #E9967A	;
+	font-weight: bold;
+	font-family: initial;
+}
+
+header ul{
+	position: relative;
+	display: flex;
+}
+
+header ul li{
+	list-style: none;
+}
+
+header ul li a{
+	color: #8B4513;
+	margin-left: 75px;
+	margin-right: 55px;
+	padding-right: 100px;
+	text-decoration: none;
+	display: inline-block;
+	align-content: center;
+	font-size: 18px;
+	font-family: revert-layer;
+}
+
+body{
+	background-color: #FFF0F5;
+}
+.home img{
+	padding-top: 120px;
+	padding-bottom: 20px;
+}
+.home h3{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 30px;
+}
+.home h3 span{
+	color: brown;
+	font-family: monospace;
+}
+
+.home p{
+	font-size: 20px;
+	text-align: center;
+	background-color: rosybrown;
+	color: black;
+	line-height: 30px;
+}
+.about img {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.about p{
+	font-size: 20px;
+	text-align: justify;
+	line-height: 30px;
+}
+.about h2{
+	color: brown;
+	font-family: monospace;
+	font-size: 25px;
+}
+.about h1{
+	padding-top: 120px;
+	padding-bottom: 0px;
+	color: brown;
+	font-family: monospace;
+	font-size: 35px;
+}
+.future h1{
+	padding-bottom: 30px;
+	padding-top: 120px;
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	color: brown;
+}
+.future p{
+	font-size: 20px;
+	text-align: justify;
+	line-height: 30px;
+}
+.book h1{
+	padding-top: 120px;
+	color: brown;
+	font-family: monospace;
+	font-size: 30px;
+	color: brown;
+}
+.book img {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.tsana h2{
+	padding-bottom: 20px;
+}
+.tsana p{
+	font-size: 20px;
+	text-align: justify;
+	line-height: 30px;
+}
+.teks h2{
+	padding-bottom: 20px;
+}
+.teks p{
+	font-size: 20px;
+	text-align: center;
+	line-height: 30px;
+}
